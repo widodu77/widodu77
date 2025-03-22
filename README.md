@@ -16,7 +16,7 @@
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=Typescript&logoColor=white" alt="TypeScript"/>
   
 </div>
 
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:waid.ajbar@student-cs.fr?subject=Hello%20there">
-    <img src="https://img.shields.io/badge/Send me a mail-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Send me a mail-%231DA1F2.svg?style=for-the-badge&logo=Mail&logoColor=white"/>
   </a>
   <a href="https://x.com/ajbar_walid">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter"/>
