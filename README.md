@@ -16,7 +16,7 @@
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=Typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/typescript-2F3134?style=for-the-badge&logo=Typescript&logoColor=white" alt="TypeScript"/>
   
 </div>
 
