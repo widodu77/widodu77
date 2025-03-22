@@ -29,7 +29,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@example.com?subject=Hello%20there">
-  Send me an email
+    <img src="https://img.shields.io/badge/Send me a mail-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://twitter.com/CodeWithBernard">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
