@@ -8,14 +8,11 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB" alt="Python"/>
   <img src="https://img.shields.io/badge/django-%23007ACC.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/react-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Different LLM and ML projects
 
 ### 🌱 I’m learning
 
@@ -25,14 +22,10 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-- 
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://www.linkedin.com/in/walid-ajbar-84b1972b3/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/CodeWithBernard">
