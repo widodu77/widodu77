@@ -28,8 +28,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <a href="https://www.linkedin.com/in/walid-ajbar-84b1972b3/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com?subject=Hello%20there">
-    <img src="https://img.shields.io/badge/Send me a mail-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="mailto:waid.ajbar@student-cs.fr?subject=Hello%20there">
+    <img src="https://img.shields.io/badge/Send me a mail-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://twitter.com/CodeWithBernard">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
