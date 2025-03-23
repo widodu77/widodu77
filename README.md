@@ -28,7 +28,7 @@ My name is Walid Ajbar, I am a student of AI, Data & Management at CentraleSupel
   <a href="https://www.linkedin.com/in/walid-ajbar-84b1972b3/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:waid.ajbar@student-cs.fr?subject=Hello%20there">
+  <a href="mailto:walid.ajbar@student-cs.fr?subject=Hello%20there">
     <img src="https://img.shields.io/badge/Send me a mail-%231DA1F2.svg?style=for-the-badge&logo=Mail&logoColor=white"/>
   </a>
   <a href="https://x.com/ajbar_walid">
