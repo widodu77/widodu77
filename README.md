@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Walid Ajbar, I am a student of AI, Data & Management at CentraleSupelec & ESSEC with hands-on experience building practical web and AI solutions
 
 **I love working with**
 
