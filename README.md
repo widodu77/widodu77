@@ -15,10 +15,13 @@ My name is Walid Ajbar, I am a student of AI, Data & Management at CentraleSupel
 
 - Different LLM and ML projects
 
-### 🌱 I’m learning
+### 🌱 My interests 
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/typescript-2F3134?style=for-the-badge&logo=Typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/ai-2F3134?style=for-the-badge&logo=AI&logoColor=white" alt="ai"/>
+  <img src="https://img.shields.io/badge/ComputerVision-2F3134?style=for-the-badge&logo=ComputerVision&logoColor=white" alt="ComputerVision"/>
+  <img src="https://img.shields.io/badge/VoiceAgents-2F3134?style=for-the-badge&logo=VoiceAgent&logoColor=white" alt="VoiceAgents"/>
+  
   
 </div>
 
