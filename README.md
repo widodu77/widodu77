@@ -1,4 +1,4 @@
-## Hey there
+## Hey there 👋
 
 I'm Walid, an AI & Data student at CentraleSupélec & ESSEC. I build and break
 things with language models, mostly reinforcement learning and retrieval (recently at least).
@@ -7,9 +7,9 @@ things with language models, mostly reinforcement learning and retrieval (recent
 
 ### Currently worked/working on 
 
-**[Adaptive Thinking for Tool Use](https://github.com/widodu77/rs_aidams)** — training a 1.7B model with GRPO to decide, per tool call, whether to reason first. Found that the length penalty cancels out of GRPO's group-normalised advantage, and that the objective has no interior optimum for any λ. 4-page paper, full research log.
+**[Adaptive Thinking for Tool Use](https://github.com/widodu77/Adaptive_Thinking_for_Tool_Use)** — training a 1.7B model with GRPO to decide, per tool call, whether to reason first. Found that the length penalty cancels out of GRPO's group-normalised advantage, and that the objective has no interior optimum for any λ. 4-page paper, full research log.
 
-**[arXiv Research Agent](https://github.com/widodu77/tool_work)** — multi-stage RAG over ~90 papers. Dense embeddings and BM25 fused by Reciprocal Rank Fusion, cross-encoder reranking, and an OpenAlex fallback that ingests new papers when the corpus can't answer. Built from scratch, no LangChain.
+**[arXiv Research Agent](https://github.com/widodu77/arXiv_Research_Agent)** — multi-stage RAG over ~90 papers. Dense embeddings and BM25 fused by Reciprocal Rank Fusion, cross-encoder reranking, and an OpenAlex fallback that ingests new papers when the corpus can't answer. Built from scratch, no LangChain.
 
 ### Working with
 
