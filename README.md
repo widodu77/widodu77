@@ -2,6 +2,7 @@
 
 I'm Walid, an AI & Data student at CentraleSupélec & ESSEC. I build and break
 things with language models, mostly reinforcement learning and retrieval (recently at least).
+
 ---
 
 ### Currently
